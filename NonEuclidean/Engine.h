@@ -9,7 +9,7 @@
 #include "Scene.h"
 #include "Sky.h"
 #include <GL/glew.h>
-#include <windows.h>
+//#include <windows.h>
 #include <memory>
 #include <vector>
 

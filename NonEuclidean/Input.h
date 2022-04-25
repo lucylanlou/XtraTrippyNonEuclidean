@@ -6,7 +6,7 @@ public:
   Input();
 
   void EndFrame();
-  void UpdateRaw(const tagRAWINPUT* raw);
+//  void UpdateRaw(const tagRAWINPUT* raw);
 
   //Keyboard
   bool key[256];

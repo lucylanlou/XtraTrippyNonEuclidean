@@ -43,4 +43,4 @@ public:
   std::shared_ptr<Texture> texture;
   std::shared_ptr<Shader> shader;
 };
-typedef std::vector<std::shared_ptr<Object>> PObjectVec;
+typedef std::vector<std::shared_ptr<Object> > PObjectVec;

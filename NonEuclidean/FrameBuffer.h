@@ -1,6 +1,6 @@
 #pragma once
 #include "Camera.h"
-#include <GL/glew.h>
+#include "../glew-2.1.0/include/GL/glew.h"
 
 //Forward declaration
 class Portal;

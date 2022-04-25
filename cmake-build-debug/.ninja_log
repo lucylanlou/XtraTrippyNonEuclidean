@@ -1,0 +1,10 @@
+# ninja log v5
+0	4235	1650855125567857450	NonEuclidean/CMakeFiles/NonEuclidean.dir/Camera.cpp.o	e87bb9a9986cb4b2
+1	4368	1650855125610806065	NonEuclidean/CMakeFiles/NonEuclidean.dir/Collider.cpp.o	773c75dee8f64b7e
+8	1488	1650855449939625147	NonEuclidean/CMakeFiles/NonEuclidean.dir/Input.cpp.o	eb8e6d3451a7071e
+12	4379	1650855452833592600	NonEuclidean/CMakeFiles/NonEuclidean.dir/Mesh.cpp.o	974ecf338131d745
+3	3597	1650855580377682821	NonEuclidean/CMakeFiles/NonEuclidean.dir/Object.cpp.o	68eb2e12a3e01ed1
+18	3021	1650855615850650669	NonEuclidean/CMakeFiles/NonEuclidean.dir/Physical.cpp.o	5513a28822ac3b8f
+25	3264	1650855616092939695	NonEuclidean/CMakeFiles/NonEuclidean.dir/Shader.cpp.o	a74911c3504ef2d2
+11	3059	1650855639346053465	NonEuclidean/CMakeFiles/NonEuclidean.dir/Texture.cpp.o	1efa4ced78a8ea4
+8	5003	1650855654383597135	NonEuclidean/CMakeFiles/NonEuclidean.dir/Player.cpp.o	4e6821cabec51ce1
